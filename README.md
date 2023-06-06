@@ -2,7 +2,7 @@
 <h5 align="center">Frontend Developer</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeakq&label=Profile%20views&color=553a99&style=flat" alt="sudeakq" /> </p>
 <div align="center"> 
- <a href="https://wakatime.com/@sudeakq"><img src="https://wakatime.com/badge/user/waka_d7860855-d44b-4d6e-9173-0cc597b91224.svg" /></a>
+<a href="https://wakatime.com/@13b3454b-3543-430b-90b3-b618afad54dc"><img src="https://wakatime.com/badge/user/13b3454b-3543-430b-90b3-b618afad54dc.svg" alt="Total time coded since Apr 11 2023" /></a>
 </div>
 <br>
 <p align="center">
