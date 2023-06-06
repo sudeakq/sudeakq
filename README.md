@@ -1,5 +1,13 @@
 <h3 align="center">Hi 👋, I'm Sude</h3>
 <h5 align="center">Frontend Developer</h5>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeakq&label=Profile%20views&color=553a99&style=flat" alt="sudeakq" /> </p>
+<div align="center"> 
+ <a href="https://wakatime.com/@sudeakq"><img src="https://wakatime.com/badge/user/waka_d7860855-d44b-4d6e-9173-0cc597b91224.svg" /></a>
+</div>
+<br>
+<p align="center">
+- 📫 How to reach me **sudeakq@gmail.com**
+</p>
 
 <h6 align="left" >Techs I Use</h6>
 <span align="center">
