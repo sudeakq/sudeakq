@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-- 📫 How to reach me **sudeakq@gmail.com**
+- 📫 How to reach me: sudeakq@gmail.com
 </p>
 
 <h6 align="left" >Techs I Use</h6>
