@@ -20,6 +20,6 @@
 </br>
 
 <p><a href="https://github.com/sudeakq">
-  <img  height="180em" width="300"src="https://github-readme-stats-eight-theta.vercel.app/api?username=sudeakq&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudeakq&layout=compact&langs_count=8&theme=transparent"/>
+  <img  height="180em" width="400"src="https://github-readme-stats-eight-theta.vercel.app/api?username=sudeakq&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudeakq&layout=compact&langs_count=8&theme=transparent"/>
 </a></p>
