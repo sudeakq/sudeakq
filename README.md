@@ -1,6 +1,7 @@
  <h3 align="center">Hi 👋, I'm Sude</h3>
 <h5 align="center">Frontend Developer</h5>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeakq&label=Profile%20views&color=553a99&style=flat" alt="sudeakq" /> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=sudeakq&label=Profile%20views&color=553a99&style=flat" alt="sudeakq" /> </p>
 
 <br>
 <p align="center">
