@@ -2,7 +2,7 @@
 <h5 align="center">Frontend Developer</h5>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sudeakq&label=Profile%20views&color=553a99&style=flat" alt="sudeakq" /> </p>
-
+[![wakatime](https://wakatime.com/badge/user/13b3454b-3543-430b-90b3-b618afad54dc.svg)](https://wakatime.com/@13b3454b-3543-430b-90b3-b618afad54dc)
 <br>
 <p align="center">
 📫 How to reach me:
