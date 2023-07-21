@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sudeakq&label=Profile%20views&color=553a99&style=flat" alt="sudeakq" /> </p>
  <p align="center">
-<a  href="https://wakatime.com/@13b3454b-3543-430b-90b3-b618afad54dc"><img align="center" src="https://wakatime.com/badge/user/13b3454b-3543-430b-90b3-b618afad54dc.svg" alt="Total time coded since Apr 11 2023" /></a>
+<a href="https://wakatime.com/@13b3454b-3543-430b-90b3-b618afad54dc"><img src="https://wakatime.com/badge/user/13b3454b-3543-430b-90b3-b618afad54dc.svg" alt="Total time coded since Apr 11 2023" /></a>
 <p align="center">
 📫 How to reach me:
   sudeakq@gmail.com
