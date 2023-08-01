@@ -11,7 +11,7 @@
 
 <h5 align="center">I'm currently learning Full Stack Development.</h5>
 
-<p align="center">
+<p >
 📫 How to reach me:
 </p>
 
