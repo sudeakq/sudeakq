@@ -8,7 +8,7 @@
   <h5 align="center">I'm currently learning Full Stack Development.</h5>
 <p align="center">
 📫 How to reach me:
-  sudeakq@gmail.com / <a href="https://www.linkedin.com/in/sude-akgün-384457228/"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </a>
+  sudeakq@gmail.com / <a href="https://www.linkedin.com/in/sude-akgün-384457228/"> LinkedIn </a>
 </p>
 
 
