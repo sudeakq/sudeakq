@@ -7,11 +7,6 @@
 </p>
 
 
-<p align="center">
-<a href="https://wakatime.com/@13b3454b-3543-430b-90b3-b618afad54dc"><img src="https://wakatime.com/badge/user/13b3454b-3543-430b-90b3-b618afad54dc.svg" alt="Total time coded since Apr 11 2023" /></a>
-</p>
-
-
 
 
 ## 📫 How to reach me:
